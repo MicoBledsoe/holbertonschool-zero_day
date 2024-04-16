@@ -22,23 +22,23 @@ This collection of projects is designed to solidify the basics of command line o
 
 Scripts and programs in this repository are designed to be run on a Linux environment with the appropriate permissions and environment settings.
 
-``bash
+###```bash
 gcc -Wall -Werror -Wextra -pedantic *.c -o [output_name]
 
 
 ### Part 5: How to Use
-```markdown
+###```markdown
 ## How to Use
 
 To run scripts or programs, navigate to the specific project directory, compile the files if necessary, and execute them directly from the command line.
 
 Example:
-```bash
+###```bash
 ./script_name
 
 
-### Part 6: Projects Overview
-```markdown
+### Part 6: Projects Overview and Additional Sections
+#```markdown
 ## Projects Overview
 
 ### 0x00-shell_basics
@@ -74,3 +74,4 @@ My name is Mico, a budding software engineer trained at Holberton School and con
 ## Conclusion
 
 This repository not only marks the start of my coding education but also serves as a testament to the skills I've developed at Holberton School. It reflects both growth and the continuous learning journey in software development.
+
