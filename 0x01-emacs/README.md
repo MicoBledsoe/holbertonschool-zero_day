@@ -48,3 +48,4 @@ This project is part of the Holberton School curriculum and is designed to famil
 
 **Mico Bledsoe**
 - [GitHub Profile](https://github.com/MicoBledsoe)
+- -[LinkedIn Profile](www.linkedin.com/in/micobledsoe)
