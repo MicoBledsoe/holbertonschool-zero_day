@@ -39,4 +39,4 @@ This directory was created as part of the curriculum at Holberton School to help
 Author
 Mico Bledsoe
 
-LinkedIn Profile - ([www.linkedin.com/in/micobledsoe])
+LinkedIn Profile - (https://www.linkedin.com/in/micobledsoe)
