@@ -22,7 +22,7 @@ This collection of projects is designed to solidify the basics of command line o
 
 Scripts and programs in this repository are designed to be run on a Linux environment with the appropriate permissions and environment settings.
 
-```bash
+``bash
 gcc -Wall -Werror -Wextra -pedantic *.c -o [output_name]
 
 
